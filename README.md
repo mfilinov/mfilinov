@@ -1,4 +1,5 @@
 ## About me
+Hi there! I like networks and programming, so I develop automation of network services.
 
 ## Languages and Tools
 
